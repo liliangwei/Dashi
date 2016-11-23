@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+/Users/Starson/project/projectDashi/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1291134377.index
+4031030010.index
+278581030.index
+1748980800.index
+2787940085.index
+4250094322.index
